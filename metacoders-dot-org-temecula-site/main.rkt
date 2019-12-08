@@ -25,6 +25,7 @@
 (define (index)
   (page index.html
         (city-page
+         #:city-name "Temecula"
          #:banner-url "https://images.pexels.com/photos/582938/pexels-photo-582938.jpeg"
          #:locations-list (list
                            (location-courses
