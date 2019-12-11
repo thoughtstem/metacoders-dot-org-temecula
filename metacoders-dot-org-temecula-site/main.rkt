@@ -8,7 +8,7 @@
 (define (index)
   (page index.html
         (city-page
-         #:city-name "Temecula"
+         #:city-name "Temecula, CA"
          #:banner-url "https://images.pexels.com/photos/582938/pexels-photo-582938.jpeg"
          )))
 
