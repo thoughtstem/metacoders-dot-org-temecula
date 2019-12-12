@@ -9,7 +9,7 @@
   (page index.html
         (city-page
          #:city-name "Temecula, CA"
-         #:banner-url "https://images.pexels.com/photos/582938/pexels-photo-582938.jpeg"
+         #:banner-url (prefix/pathify temecula-banner-path)
          )))
 
 (define (pages)
