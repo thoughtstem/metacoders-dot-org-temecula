@@ -82,6 +82,7 @@
         (city-page
          #:city-name "Temecula, CA"
          #:banner-url (prefix/pathify temecula-banner-path)
+         #:alt-tag "City of Temecula, California on a cloudy day with view of pond"
          #:school-year-courses (list weekly-class-k-2nd-winter
                                      weekly-class-3rd-6th-winter
                                      weekly-class-k-2nd-spring
