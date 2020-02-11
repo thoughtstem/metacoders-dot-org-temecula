@@ -16,7 +16,7 @@
       #:address       "42690 Margarita Road, Temecula CA 92592"
       #:address-link  "https://goo.gl/maps/1DDqmi9r6tv8miBJ8"
       #:price         200
-      #:discount      20
+      ;#:discount      20
       #:start-time    "10:00am"
       #:end-time      "11:30am"
       #:meeting-dates (list "2/29/2020" "3/7/2020" "3/14/2020" "3/21/2020" "4/4/2020" "4/11/2020")
@@ -34,7 +34,7 @@
       #:address       "42690 Margarita Road, Temecula CA 92592"
       #:address-link  "https://goo.gl/maps/1DDqmi9r6tv8miBJ8"
       #:price         200
-      #:discount      20
+     ;#:discount      20
       #:start-time    "12:00pm"
       #:end-time      "1:30pm"
       #:meeting-dates (list "2/29/2020" "3/7/2020" "3/14/2020" "3/21/2020" "4/4/2020" "4/11/2020")
