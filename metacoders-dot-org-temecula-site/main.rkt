@@ -418,6 +418,7 @@
                                                 #:am-price "260"
                                                 #:pm-price "240"
                                                 #:full-day-price "460")
+           #:camp-lunch-info "Supervised lunch (not provided) hour"
          )))
 
 (define (pages)
