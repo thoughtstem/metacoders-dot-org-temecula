@@ -417,8 +417,9 @@
                                                 #:full-day-time "9am - 4pm"
                                                 #:am-price "260"
                                                 #:pm-price "240"
-                                                #:full-day-price "460")
-           #:camp-lunch-info "Supervised lunch (not provided) hour"
+                                                #:full-day-price "460"
+                                                #:lunch-info "Supervised lunch hour")
+           #:camp-lunch-info "Supervised lunch hour"
          )))
 
 (define (pages)
