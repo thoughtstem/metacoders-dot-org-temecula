@@ -72,7 +72,7 @@
       #:sku           "sku_QzQL6QOfSzirPwJTAnxZ6Q"
       #:video-path     survival-mp4-path
       #:description   "In our Winter Saturday class, students will design & code their very own 2D survival games. Students will learn how to build critical features that make survival games like Minecraft and Fortnite fun! Students will use a powerful, typed language to code features like health bars, day-night cycles, and crafting/recipe mechanics. At the end of this course, students will be able to share their survival games with friends and family."
-      #:grade-range   "3rd-6th"
+      #:grade-range   "3rd - 6th"
       #:location      "Temecula United Methodist Church"
       #:address       "42690 Margarita Road, Temecula CA 92592"
       #:address-link  "https://goo.gl/maps/1DDqmi9r6tv8miBJ8"
@@ -108,7 +108,7 @@
       #:sku           "sku_NJ01rwfgSUO741Ev4yLeRQ"
       #:video-path     battlearena-mp4-path
       #:description   "In our Spring Saturday class, students will design & code their very own 2D battle arena video games. What's a battle arena game? Think Fortnite! Students will learn how to code their characters' weapons and armor, create enemies to battle, and program potions that will give their character special capabilities. At the end of this course, students will participate in a Game Jam where they'll work together to create their own unique games."
-      #:grade-range   "3rd-6th"
+      #:grade-range   "3rd - 6th"
       #:location      "Temecula United Methodist Church"
       #:address       "42690 Margarita Road, Temecula CA 92592"
       #:address-link  "https://goo.gl/maps/1DDqmi9r6tv8miBJ8"
