@@ -14,8 +14,7 @@
          #:banner-url (prefix/pathify temecula-banner-path)
          #:alt-tag "City of Temecula, California on a cloudy day with view of pond"
 
-	 (remote 
-	    "https://mc-social-media.s3-us-west-1.amazonaws.com/static-points-of-sale/temecula.html") )))
+	 "Coming Soon!" )))
 
 (define (pages)
   (list
